@@ -1,0 +1,186 @@
+
+body{
+   background-color: white;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.navigation li{
+  font-size: 20px;
+  font-weight: 100;
+  text-transform: uppercase;
+  margin: 5px;
+  text-decoration: none;
+  color: gray;
+
+}
+
+.navigation li.logo{
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+
+}
+
+.image2{
+  background-image: url("tahoe.jpg");
+  background-position: bottom center;
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.caption2{
+  border: 3px solid white;
+  border-radius: 5px;
+  color: #fff;
+  position: relative;
+  top: 50px;
+  float: left;
+  left: 100px;
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: cursive;
+
+}
+
+
+#main{
+  margin: 0 auto;
+  padding: 50px;
+  text-align: center;
+  width: 500px;
+  height: 1000px;
+  overflow: scroll;
+}
+
+
+
+h3{
+  color: darkblue;
+  line-height: 25px;
+}
+
+
+.byline{
+  border-bottom: 1px solid lightgray;
+  color: darkgray;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+
+p {
+  color: grey;
+  font-size: 16px;
+  line-height: 38px;
+  margin-top: 60px;
+  padding: 10px 20px;
+}
+
+.pull-quote {
+  margin: 0 auto;
+  width: 400px;
+
+}
+
+
+h2 {
+
+   color: darkblue;
+   line-height: 30px;
+   border: 1px dotted darkblue;
+   padding: 20px;
+   text-align: center;
+}
+
+
+.share{
+  border-top: 1px solid lightgrey;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 40px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.share a {
+
+   background: darkblue;
+   color: #fff;
+   padding: 14px;
+   text-decoration: none;
+   text-align: center;
+   border: 1px solid darkblue;
+   border-radius: 3px;
+   display: inline-block;
+   margin: 10px;
+   text-transform: uppercase;
+
+}
+
+.share a:hover {
+  background: #fff;
+  border: 1px solid darkblue;
+  color: darkblue;
+}
+
+/*
+h2.destination {
+  font-family: cursive;
+  font-weight: bolder;
+}
+
+
+.description h5 {
+  color: teal;
+  font-family: cursive;
+}
+
+
+
+
+.description {
+  width: 40%;
+  font-family: cursive;
+}
+
+.list li{
+  font-family: cursive;
+}
+
+.image{
+  background-image: url("night.png");
+  background-size: cover;
+  background-position: center;
+  height: 320px;
+}
+
+
+.caption{
+  display: block;
+  font-family: playfair display, serif;
+  font-size: 35px;
+  font-style: italic;
+  line-height: 30px;
+  margin-left: 20px;
+  padding: 10px;
+  position: relative;
+  top: 50%;
+  width: 60%;
+  background-color: #eee;
+  color: #2d2d2d;
+  opacity: 0.32;
+}*/
+
